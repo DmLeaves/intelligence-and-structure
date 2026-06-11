@@ -34,7 +34,8 @@ export default defineConfig({
           { text: '第一章：元数据', link: '/chapters/chapter-01' },
           { text: '第二章：生命', link: '/chapters/chapter-02' },
           { text: '第三章：概率', link: '/chapters/chapter-03' },
-          { text: '第四章：智能', link: '/chapters/chapter-04' }
+          { text: '第四章：智能', link: '/chapters/chapter-04' },
+          { text: '第五章：意识与结构', link: '/chapters/chapter-05' }
         ]
       }
     ],
