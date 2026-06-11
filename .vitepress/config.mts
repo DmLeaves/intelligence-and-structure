@@ -1,9 +1,15 @@
 import { defineConfig } from 'vitepress'
+import footnote from 'markdown-it-footnote'
 
 export default defineConfig({
   lang: 'zh-CN',
   title: '智能与结构',
   description: '诞生于 AI 时代下的哲学观',
+
+  // 启用 Markdown 脚注语法 [^1] ... [^1]: 注释内容
+  markdown: {
+    config: (md) => md.use(footnote)
+  },
 
   // GitHub Pages 项目站点需要以仓库名作为路径前缀。
   // 如果将来改了仓库名，这里要同步修改；用自定义域名时改为 '/'
@@ -25,7 +31,8 @@ export default defineConfig({
         text: '正文',
         items: [
           { text: '前言', link: '/chapters/preface' },
-          { text: '第一章：元数据', link: '/chapters/chapter-01' }
+          { text: '第一章：元数据', link: '/chapters/chapter-01' },
+          { text: '第二章：生命', link: '/chapters/chapter-02' }
         ]
       }
     ],
