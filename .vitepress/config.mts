@@ -32,7 +32,8 @@ export default defineConfig({
         items: [
           { text: '前言', link: '/chapters/preface' },
           { text: '第一章：元数据', link: '/chapters/chapter-01' },
-          { text: '第二章：生命', link: '/chapters/chapter-02' }
+          { text: '第二章：生命', link: '/chapters/chapter-02' },
+          { text: '第三章：概率', link: '/chapters/chapter-03' }
         ]
       }
     ],
