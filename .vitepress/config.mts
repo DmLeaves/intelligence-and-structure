@@ -25,7 +25,7 @@ export default defineConfig({
         text: '正文',
         items: [
           { text: '前言', link: '/chapters/preface' },
-          { text: '第一章', link: '/chapters/chapter-01' }
+          { text: '第一章：元数据', link: '/chapters/chapter-01' }
         ]
       }
     ],
