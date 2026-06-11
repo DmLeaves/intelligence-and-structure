@@ -1,6 +1,7 @@
-# 我的开源书
+# 智能与结构——诞生于 AI 时代下的哲学观
 
-一本正在写作中的开源书。在线阅读：<https://your-name.github.io/my-open-book/>
+一本正在公开写作中的开源书。
+在线阅读：<https://your-name.github.io/intelligence-and-structure/>
 
 ## 本地预览
 

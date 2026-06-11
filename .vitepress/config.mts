@@ -2,12 +2,12 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: '我的开源书',
-  description: '一本正在写作中的开源书',
+  title: '智能与结构',
+  description: '诞生于 AI 时代下的哲学观',
 
   // GitHub Pages 项目站点需要以仓库名作为路径前缀。
   // 如果将来改了仓库名，这里要同步修改；用自定义域名时改为 '/'
-  base: '/my-open-book/',
+  base: '/intelligence-and-structure/',
 
   lastUpdated: true,
 
@@ -32,12 +32,12 @@ export default defineConfig({
 
     outline: { label: '本页目录', level: [2, 3] },
 
-    // 推送到 GitHub 后把 your-name/my-open-book 换成实际仓库
+    // 推送到 GitHub 后把 your-name 换成实际用户名
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-name/my-open-book' }
+      { icon: 'github', link: 'https://github.com/your-name/intelligence-and-structure' }
     ],
     editLink: {
-      pattern: 'https://github.com/your-name/my-open-book/edit/main/:path',
+      pattern: 'https://github.com/your-name/intelligence-and-structure/edit/main/:path',
       text: '在 GitHub 上编辑此页'
     },
 
