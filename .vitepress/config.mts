@@ -32,12 +32,12 @@ export default defineConfig({
 
     outline: { label: '本页目录', level: [2, 3] },
 
-    // 推送到 GitHub 后把 your-name 换成实际用户名
+    // 推送到 GitHub 后把 DmLeaves 换成实际用户名
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-name/intelligence-and-structure' }
+      { icon: 'github', link: 'https://github.com/DmLeaves/intelligence-and-structure' }
     ],
     editLink: {
-      pattern: 'https://github.com/your-name/intelligence-and-structure/edit/main/:path',
+      pattern: 'https://github.com/DmLeaves/intelligence-and-structure/edit/main/:path',
       text: '在 GitHub 上编辑此页'
     },
 
@@ -45,7 +45,7 @@ export default defineConfig({
 
     footer: {
       message: '本书采用 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans">CC BY-SA 4.0</a> 许可发布',
-      copyright: 'Copyright © 2026 作者名'
+      copyright: 'Copyright © 2026 DmLeaves'
     },
 
     docFooter: { prev: '上一章', next: '下一章' },
