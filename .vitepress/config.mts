@@ -61,8 +61,13 @@ export default defineConfig({
         text: '回到当下',
         items: [
           { text: '第六章：人工智能', link: '/chapters/chapter-06' },
-          { text: '第七章：预见智能时代', link: '/chapters/chapter-07' }
+          { text: '第七章：掌控智能', link: '/chapters/chapter-07' },
+          { text: '第八章：预见智能时代', link: '/chapters/chapter-08' }
         ]
+      },
+      {
+        text: '另一侧的回声',
+        items: [{ text: '第九章：来自另一侧', link: '/chapters/chapter-09' }]
       }
     ],
 

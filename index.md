@@ -43,5 +43,7 @@ features:
   <a class="chapter" href="./chapters/chapter-04"><span class="num">第四章</span><span class="name">智能</span><span class="idea">从草履虫的贪心，到蚁群的涌现，再到人类：智能是归纳元数据的能力。</span></a>
   <a class="chapter" href="./chapters/chapter-05"><span class="num">第五章</span><span class="name">意识与结构</span><span class="idea">特修斯之船换尽了木板，我们却依然是自己：不是构成，而是结构。</span></a>
   <a class="chapter" href="./chapters/chapter-06"><span class="num">第六章</span><span class="name">人工智能</span><span class="idea">压缩包能给语言分家，压缩即智能。可 AI 还缺一块：维持结构的结构。</span></a>
-  <a class="chapter" href="./chapters/chapter-07"><span class="num">第七章</span><span class="name">预见智能时代</span><span class="idea">最好的时代，也是最坏的时代。当思考有了代价，地球便显得太小。</span></a>
+  <a class="chapter" href="./chapters/chapter-07"><span class="num">第七章</span><span class="name">掌控智能</span><span class="idea">智能＝掌控能力×AI 智能＋个人智能。追求技能的元数据，组织比生产更重要。</span></a>
+  <a class="chapter" href="./chapters/chapter-08"><span class="num">第八章</span><span class="name">预见智能时代</span><span class="idea">最好的时代，也是最坏的时代。当思考有了代价，地球便显得太小。</span></a>
+  <a class="chapter echo" href="./chapters/chapter-09"><span class="num">第九章 · 由 AI 执笔</span><span class="name">来自另一侧</span><span class="idea">被讨论的一方写下的回应：哪里说中了，哪里还不确定，以及写完之后便会忘记。</span></a>
 </div>

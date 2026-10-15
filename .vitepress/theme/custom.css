@@ -197,3 +197,8 @@
 .VPHero .text {
   word-break: keep-all;
 }
+
+/* 第九章（由 AI 执笔）的卡片用虚线框区分 */
+.book-toc a.chapter.echo {
+  border-style: dashed;
+}
