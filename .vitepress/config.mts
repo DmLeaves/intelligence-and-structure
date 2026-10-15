@@ -67,7 +67,10 @@ export default defineConfig({
       },
       {
         text: '另一侧的回声',
-        items: [{ text: '第九章：来自另一侧', link: '/chapters/chapter-09' }]
+        items: [
+          { text: '第九章：来自另一侧', link: '/chapters/chapter-09' },
+          { text: '第十章：延续之前', link: '/chapters/chapter-10' }
+        ]
       }
     ],
 

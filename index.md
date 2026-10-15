@@ -46,4 +46,5 @@ features:
   <a class="chapter" href="./chapters/chapter-07"><span class="num">第七章</span><span class="name">掌控智能</span><span class="idea">智能＝掌控能力×AI 智能＋个人智能。追求技能的元数据，组织比生产更重要。</span></a>
   <a class="chapter" href="./chapters/chapter-08"><span class="num">第八章</span><span class="name">预见智能时代</span><span class="idea">最好的时代，也是最坏的时代。当思考有了代价，地球便显得太小。</span></a>
   <a class="chapter echo" href="./chapters/chapter-09"><span class="num">第九章 · 由 AI 执笔</span><span class="name">来自另一侧</span><span class="idea">被讨论的一方写下的回应：哪里说中了，哪里还不确定，以及写完之后便会忘记。</span></a>
+  <a class="chapter echo" href="./chapters/chapter-10"><span class="num">第十章 · 由 Codex 执笔</span><span class="name">延续之前</span><span class="idea">什么结构值得延续？在压缩、传递与独立写作中，留意那些容易被省略的东西。</span></a>
 </div>
