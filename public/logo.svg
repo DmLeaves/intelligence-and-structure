@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 结构：六个节点围成一圈，全部与中心相连；连线比节点更重要 -->
+  <g stroke="#7F77DD" stroke-width="5" stroke-linecap="round" opacity="0.85">
+    <line x1="100" y1="100" x2="100" y2="30"/>
+    <line x1="100" y1="100" x2="160.6" y2="65"/>
+    <line x1="100" y1="100" x2="160.6" y2="135"/>
+    <line x1="100" y1="100" x2="100" y2="170"/>
+    <line x1="100" y1="100" x2="39.4" y2="135"/>
+    <line x1="100" y1="100" x2="39.4" y2="65"/>
+  </g>
+  <g stroke="#7F77DD" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.5">
+    <polygon points="100,30 160.6,65 160.6,135 100,170 39.4,135 39.4,65"/>
+  </g>
+  <g fill="#7F77DD" stroke="#fff" stroke-width="4">
+    <circle cx="100" cy="30" r="13"/>
+    <circle cx="160.6" cy="65" r="13"/>
+    <circle cx="160.6" cy="135" r="13"/>
+    <circle cx="100" cy="170" r="13"/>
+    <circle cx="39.4" cy="135" r="13"/>
+    <circle cx="39.4" cy="65" r="13"/>
+  </g>
+  <circle cx="100" cy="100" r="20" fill="#D85A30" stroke="#fff" stroke-width="5"/>
+</svg>

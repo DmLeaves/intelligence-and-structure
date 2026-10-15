@@ -16,8 +16,10 @@ npm run build    # 构建静态站点（输出到 .vitepress/dist）
 ```
 index.md                 首页
 about.md                 关于本书
-chapters/                正文章节（每章一个 .md 文件）
-.vitepress/config.mts    站点标题、侧边栏目录等配置
+chapters/                正文章节（每章一个 .md 文件），插图在 chapters/imgs/
+public/                  站点图标等静态资源
+.vitepress/config.mts    站点标题、侧边栏目录、图注渲染等配置
+.vitepress/theme/        配色与排版（在默认主题上叠加 custom.css）
 .github/workflows/       推送到 main 分支后自动部署 GitHub Pages
 ```
 

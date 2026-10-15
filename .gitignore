@@ -4,3 +4,5 @@ node_modules/
 
 # Obsidian 编辑器本地配置
 .obsidian/
+# 插图生成脚本(本地保留,不发布)
+scripts/
